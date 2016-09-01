@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: "Assets/\u7EC4\u4EF6 Unity/Label.unity"
+  isLoaded: 1
+  isActive: 1
