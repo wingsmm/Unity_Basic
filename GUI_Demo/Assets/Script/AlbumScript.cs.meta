@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d93140112d0fd47a392cc0e8f7e48349
+timeCreated: 1479563848
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - background: {fileID: 10906, guid: 0000000000000000f000000000000000, type: 0}
+  - album_texture: {instanceID: 0}
+  - texture_1: {instanceID: 0}
+  - texture_2: {instanceID: 0}
+  - texture_3: {instanceID: 0}
+  - texture_4: {instanceID: 0}
+  - texture_5: {instanceID: 0}
+  - left_texture: {instanceID: 0}
+  - right_texture: {instanceID: 0}
+  - ok_texture: {instanceID: 0}
+  - return_texture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
