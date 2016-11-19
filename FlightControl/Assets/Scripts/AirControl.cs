@@ -32,6 +32,7 @@ public class AirControl : MonoBehaviour
 		// 获取飞机对象绕X轴的旋转量
 		rotationz = this.transform.eulerAngles.z;
 
+
 		//----------------触摸监听开始-----------------//
 		if (Input.touchCount > 0) {         //当触摸的数量大于0
 			for (int i = 0; i < Input.touchCount; i++) {

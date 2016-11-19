@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\AirControl.cs" />
+     <Compile Include="Assets\Scripts\AirControl_Mouse.cs" />
      <Compile Include="Assets\Scripts\SmoothFollow.cs" />
      <None Include="Assets\TerrainData\Shaders\VertexColorsReflectiveUnity5_Linear.shader" />
      <None Include="Assets\TerrainData\Shaders\VertexLitVertexColors.shader" />
